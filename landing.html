@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Better Study</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body>
+        <!-- Landing UI -->
+        <div class="container" id="landing">
+            <header>
+                <a href="home.html"> <img src="/images/logo-nobg.png" alt="Logo" class="logo"/> </a>
+                <img src="/images/lamp-dark.png" alt="Lamp" class="lamp" onclick="toggleMode()" />
+            </header>
+
+            <main>
+                <h1 class="title">Better Study</h1>
+                <p class="motto">Connect. Learn. Succeed.</p>
+
+                <div class="buttons">
+                    <button class="signup">Sign Up</button>
+                    <button class="login">Log In</button>
+                </div>
+            </main>
+
+            <!-- Scroll Icon -->
+            <footer>
+                <div class="scroll-arrow" onclick="scrollToStats()">
+                    <img src="/images/scroll-arrow.png" alt="Scroll Down Arrow" class="arrow" />
+                  </div>
+            </footer>
+        </div>
+
+        <!-- Stats -->
+        <section id="stats">
+            <h2>Live Stats</h2>
+            <div class="stats-container">
+            <div class="stat-box">
+                <h3 id="total-messages">0</h3>
+                <p>Total Messages Sent</p>
+            </div>
+            <div class="stat-box">
+                <h3 id="messages-24h">0</h3>
+                <p>Messages Sent in 24 Hours</p>
+            </div>
+            <div class="stat-box">
+                <h3 id="total-posts">0</h3>
+                <p>Total Posts Created</p>
+            </div>
+            <div class="stat-box">
+                <h3 id="study-sessions">0</h3>
+                <p>Study Sessions Conducted</p>
+            </div>
+            </div>
+        </section>    
+
+        <!-- Website Footer -->
+        <footer class="footer">
+            <div class="footer-left">
+              <p>&copy; 2025 <span class="brand">BetterStudy</span></p>
+              <p>All rights reserved.</p>
+            </div>
+            
+            <div class="footer-center">
+              <img src="/images/logo-nobg.png" alt="Book" class="icon" />
+              <div class="links">
+                <a href="/about">About</a>
+                <a href="/policies">Policies</a>
+              </div>
+            </div>
+            
+            <div class="footer-right">
+              <a href="https://github.com/x23756575/TeamProject" target="_blank"> <img src="/images/github.png" alt="GitHub" class="icon"/> </a>
+              <img src="/images/send.png" alt="Other" class="icon" />
+            </div>
+          </footer>
+
+          <script src="script.js"></script>
+          <script src="main.js"></script>
+    </body>
+</html>

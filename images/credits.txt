@@ -1,0 +1,15 @@
+
+
+logo.png - https://www.canva.com - images
+
+logo-nobg.png - https://www.canva.com - images - BUT MODIFIED
+
+lamp-dark.png - <a href="https://www.flaticon.com/free-icons/desk-lamp" title="desk lamp icons">Desk lamp icons created by Alejandro rodriguez - Flaticon</a>
+
+lamp-light.png - <a href="https://www.flaticon.com/free-icons/desk-lamp" title="desk lamp icons">Desk lamp icons created by Alejandro rodriguez - Flaticon</a> BUT MODIFIED
+
+github.png - <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Ruslan Babkin - Flaticon</a>
+
+send.png - <a href="https://www.flaticon.com/free-icons/instagram-share" title="instagram share icons">Instagram share icons created by Aldo Cervantes - Flaticon</a>
+
+scroll-arrow.png <a href="https://www.flaticon.com/free-icons/scroll-down" title="scroll down icons">Scroll down icons created by BomSymbols - Flaticon</a>
