@@ -13,3 +13,5 @@ github.png - <a href="https://www.flaticon.com/free-icons/github" title="github 
 send.png - <a href="https://www.flaticon.com/free-icons/instagram-share" title="instagram share icons">Instagram share icons created by Aldo Cervantes - Flaticon</a>
 
 scroll-arrow.png <a href="https://www.flaticon.com/free-icons/scroll-down" title="scroll down icons">Scroll down icons created by BomSymbols - Flaticon</a>
+
+refresh.png <a href="https://www.flaticon.com/free-icons/reset" title="reset icons">Reset icons created by The Icon Tree - Flaticon</a>

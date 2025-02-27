@@ -33,14 +33,9 @@ function scrollToStats() {
   document.getElementById("stats").scrollIntoView({ behavior: "smooth" });
 }
 
+// Refresh Button
 function scrollToLanding(){
-  document.getElementById("landing").scrollIntoView({behavior: "smooth"});
-}
-
-
-function toggleScroll(){
-  
-
+  document.getElementById("landing").scrollIntoView({ behavior: "smooth" });
 }
 
 // Smooth transition
